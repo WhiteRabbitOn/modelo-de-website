@@ -5,5 +5,3 @@
 >Início do Projeto: Julho de 2022
 
 >Previsão de Entrega: Janeiro de 2023
-
->Objetivo: Praticar HTML, CSS, JavaScript e controle de versionamento
